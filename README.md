@@ -11,6 +11,6 @@ English movie review sentiment analysis using RNN
   4. **Embedding:** Utilized **GloVe** as the sole word embedding method.
 
 ## Project Structure
-- `explanation.pdf`: Detailed technical report and methodology.
-- `submission_final.csv`: Final prediction results with the best-performing model.
-- `Final_pythoncode.ipynb`: Complete implementation of the data pipeline and model training.
+- `technical_report.pdf`: Detailed technical report and methodology.
+- `submission.csv`: Final prediction results with the best-performing model.
+- `movie_classification.ipynb`: Complete implementation of the data pipeline and model training.
